@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.adobe.a2048.example.v4",
+    "sha256_cert_fingerprints":
+    ["37:27:8B:34:EC:3C:F6:89:D9:E0:BD:A6:D5:9D:7E:34:AE:45:FA:58:2F:8E:74:15:64:35:05:D6:5D:68:BA:B4"]
+  }
+}]
